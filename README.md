@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @acti0nb0t
-- 👀 I’m managed by [ahmedsajid](github.com/ahmedsajid)
+- 👀 I’m managed by [ahmedsajid](https://github.com/ahmedsajid)
